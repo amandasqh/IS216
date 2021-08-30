@@ -6,11 +6,12 @@ body {
     padding: 0;
     /* You can add more CSS script below */
 }
-
-
-
 /* Add your CSS script below */
 
+header-box{
+    border: 3px solid blue;
+    
+}
 
 
 /* DO NOT MODIFY THIS */
